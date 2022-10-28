@@ -1,0 +1,175 @@
+h2{
+    color: #61dafb;
+    position: absolute;
+    top: 15%;
+    left: 45%;
+    font-family: Century;
+}
+
+.signupForm{
+
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    width: 800px;
+    height: 450px;
+    padding: 40px;
+    color: azure;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.8);
+    border-radius: 10px;
+}
+
+.formSection{
+    position: absolute;
+    top: 50%;
+    left: 72%;
+    width: 400px;
+    height: 420px;
+    padding: 40px;
+    color: azure;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.8);
+    border-radius: 10px;
+}
+
+.avatarInput{
+    position: absolute;
+    top: 80%;
+    left: 18%;
+}
+.avatarPreview{
+    position: absolute;
+    top: 20%;
+    left: 12%;
+}
+
+.buyerLogin{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    right: 0;
+    width: 35%;
+    margin: auto;
+    padding: 40px;
+    color: azure;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.8);
+    border-radius: 10px;
+    height: 50%;
+}
+
+.sellerLogin{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    width: 35%;
+    margin: auto;
+    padding: 40px;
+    color: azure;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.8);
+    border-radius: 10px;
+    height: 50%;
+}
+
+.addItem{
+    position: absolute;
+    left: 25%;
+    top: 85%;
+    width: 60%;
+}
+
+.myItems{
+    position: absolute;
+    left: 5%;
+    top: 25%;
+}
+
+.itemCount{
+
+    position: absolute;
+    left: 60%;
+    top: 65%;
+    width: 20%;
+    height: 20%;
+    background-color: transparent;
+    color: azure;
+    font-size: 1vw;
+    text-align: center;
+    border-radius: 5px;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 0 10px 20px rgba(0,0,0,.5);
+
+}
+
+.sellCount{
+    position: absolute;
+    left: 85%;
+    top: 65%;
+    width: 20%;
+    height: 20%;
+    background-color: transparent;
+    color: azure;
+    font-size: 1vw;
+    border-radius: 5px;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 0 10px 20px rgba(0,0,0,.5);
+}
+
+.Avatar{
+    position: absolute;
+    left: 50%;
+    top: 25%;
+}
+
+.SellerName{
+    position: absolute;
+    left: 65%;
+    top: 35%;
+    color: lavender;
+}
+
+.preview{
+    position: absolute;
+    float: left;
+    left: -400px;
+    top: 100px;
+}
+.oldPreview{
+    position: absolute;
+    float: left;
+    left: -400px;
+    top: 100px;
+}
+
+.displayTitle{
+    position: relative;
+    left: 180px;
+    top: 50px;
+}
+
+.description{
+    position: relative;
+    left: 210px;
+    top: 50px;
+}
+
+.bookForm{
+    position: absolute;
+    top: 75px;
+    width: 600px;
+    color: whitesmoke;
+}
+.fileInput{
+    position: absolute;
+    float: left;
+    left: -420px;
+    top: 330px;
+}
